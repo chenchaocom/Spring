@@ -12,7 +12,7 @@ public class LoginAspect {
 
 
     public void before(JoinPoint joinPoint){
-        logger.info("调用方法之前调用"+ joinPoint);
+        logger.info("调用方法之前调用。"+ joinPoint);
     }
 
 

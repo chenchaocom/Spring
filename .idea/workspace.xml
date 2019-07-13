@@ -40,31 +40,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginAspect.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LoginAspect.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/course/aop/Aspect/LoginAspect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="28" column="5" selection-start-line="13" selection-start-column="3" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="187">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#594#595#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application-aop.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application-aop.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application-aop.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+            <state relative-caret-position="391">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -217,7 +217,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/cc/HashSet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cc/TestHashSet.java" />
         <option value="E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Autowired.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cc/course/aop/Aspect/LoginAspect.java" />
         <option value="$PROJECT_DIR$/src/main/test/AuthServiceTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/application-common.xml" />
@@ -225,6 +224,7 @@
         <option value="$PROJECT_DIR$/src/test/java/AuthServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cc/course/aop/Aspect/AnnotationAspect.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application-aop.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/course/aop/Aspect/LoginAspect.java" />
       </list>
     </option>
   </component>
@@ -1156,7 +1156,7 @@
       <workItem from="1562677699752" duration="2723000" />
       <workItem from="1562770190898" duration="2166000" />
       <workItem from="1562851610342" duration="3661000" />
-      <workItem from="1562934138234" duration="7474000" />
+      <workItem from="1562934138234" duration="8047000" />
     </task>
     <servers />
   </component>
@@ -1187,7 +1187,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49140000" />
+    <option name="totallyTimeSpent" value="49713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -1884,24 +1884,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/course/aop/Aspect/LoginAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="28" column="5" selection-start-line="13" selection-start-column="3" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/AuthServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1944,9 +1926,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application-aop.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        <state relative-caret-position="391">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/course/aop/Aspect/LoginAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
