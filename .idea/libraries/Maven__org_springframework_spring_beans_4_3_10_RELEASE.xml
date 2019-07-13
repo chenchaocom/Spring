@@ -1,0 +1,58 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-beans:4.3.10.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/gradle/jdiff" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-aop/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-aop/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-aspects/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-aspects/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-beans/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-beans/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-context-support/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-context-support/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-context/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-context/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-core/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-core/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-expression/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-expression/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-instrument-tomcat/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-instrument/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-jdbc/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-jdbc/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-jms/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-jms/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-orm-hibernate4/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-orm-hibernate4/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-orm/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-orm/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-oxm/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-oxm/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-struts/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-struts/src/main/java/org/springframework/web/struts" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-struts/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-test-mvc/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-test-mvc/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-test/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-test/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-tx/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-tx/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-web/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-web/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-webmvc-portlet/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-webmvc-portlet/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-webmvc-tiles3/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-webmvc-tiles3/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-webmvc/src/main/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/spring-webmvc/src/test/java" />
+      <root url="file://E:/BaiduYunDownload/02.源码分析专题/1spring源码分析/spring-framework-3.2.6.RELEASE/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
